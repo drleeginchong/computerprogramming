@@ -1,2 +1,2 @@
 # Computer Programming
-This is a university learning platform
+This is a learning platform for students who are interested to learn about basic programming.
